@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DonaldShawnShang
-- 👀 I’m interested in CycleGAN
-- 🌱 I’m currently learning CyclrGAN
+- 👀 I’m interested in Cryptography, Autodriving, BlockChain
+- 🌱 I’m currently learning OT 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
